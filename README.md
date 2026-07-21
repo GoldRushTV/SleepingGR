@@ -8,7 +8,7 @@ If you are in the Vencore(libVencore) Discord server here is the Link
 
 https://discord.com/channels/1015060230222131221/1028106818368589824/1044717748778971157
 
-![I_need_space](https://github.com/user-attachments/assets/f5076b88-4f75-44a4-84da-ad1146fd400d)
+![I_need_space](https://github.com/GoldRushTV/SleepingGR/blob/main/images/blank.png)		
 
 
 Image was made by (name from Github) adryd325 and change by me
