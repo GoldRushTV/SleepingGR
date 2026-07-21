@@ -16,19 +16,16 @@ Image was made by (name from Github) adryd325 and change by me
 here is the original image
 
 https://github.com/adryd325/oneko.js/blob/main/oneko.gif
+![neko](https://raw.githubusercontent.com/adryd325/oneko.js/refs/heads/main/oneko.gif)		                             
+
 		              
-![I_need_space](https://github.com/user-attachments/assets/01895ae8-bc3e-4c10-8561-20ad18b545b6)
-
-![I_need_space](https://github.com/user-attachments/assets/01895ae8-bc3e-4c10-8561-20ad18b545b6)
-	               
-
-		               
+![I_need_space](https://github.com/GoldRushTV/SleepingGR/blob/main/images/blank.png)		               
                
 		
                 
 This is how my version looks like
 
-![2025-06-18 19_11_29-#clips-und-highlights _ Server von GoldRush - Discord](https://github.com/user-attachments/assets/47a72ecf-e2dd-43b9-93f4-20b1696554b6)
+![image1](https://github.com/GoldRushTV/SleepingGR/blob/main/images/image1.png)
 
 This is the code if you want it too
 
