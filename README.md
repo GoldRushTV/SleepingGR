@@ -2,9 +2,9 @@
 
 It is a Vencore QuickCSS
 
-It was made by (name from Discord) vending.machine on Discord and change by me
+It was made by vending.machine (name from Discord) on Discord and change by me
 
-If you are in the Vencore(libVencore) Discord server hier is the Link
+If you are in the Vencore(libVencore) Discord server here is the Link
 
 https://discord.com/channels/1015060230222131221/1028106818368589824/1044717748778971157
 
