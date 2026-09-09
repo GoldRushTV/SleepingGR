@@ -11,7 +11,7 @@ https://discord.com/channels/1015060230222131221/1028106818368589824/10447177487
 ![I_need_space](https://github.com/GoldRushTV/SleepingGR/blob/main/images/blank.png)		
 
 
-Image was made by (name from Github) adryd325 and change by me
+Image was made by adryd325 (name from Github) and change by me
 
 here is the original image
 
